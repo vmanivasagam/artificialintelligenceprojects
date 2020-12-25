@@ -1,2 +1,3 @@
-# artificialintelligenceprojects
-This is my repository for storing the projects on Artificial Intelligence
+# Artificial Intelligence Projects
+
+This is my project to store the Artificial Intelligence Projects!
